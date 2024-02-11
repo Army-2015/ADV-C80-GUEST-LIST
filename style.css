@@ -1,0 +1,32 @@
+body{
+    background-color: #24282E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #EDF0EF;
+    text-shadow: 5px 5px #FC5957;
+    letter-spacing: 1px;
+}
+
+
+
+h1{
+    margin-top: 20px; 
+}
+
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+    text-align: center;
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
